@@ -30,6 +30,7 @@ If you haven't already, [join the course](https://www.edx.org/course/programming
  
 Your anaconda installer comes pre-loaded with the following packages:
 
+
  * matplotlib
  * numpy
  * scipy
