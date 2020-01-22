@@ -6,7 +6,6 @@ By Authman Apatira
 
 If you haven't already, [join the course](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-0)!
 
-
 ## Getting Started
 
  * Download and install the [Anaconda 4.2.0 Graphical Installer](https://www.continuum.io/downloads) for your operating system (Linux, OS/X, or Windows).
